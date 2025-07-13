@@ -1,0 +1,10 @@
+Overview of Statistical Methods.
+Sign vs Cosine Functions.
+Sigmoid Function.
+Polynomial Regression Example.
+Decision Trees Visualization.
+Comparing Model Accuracies.
+Data Distribution Graph.
+Histograms of Service Times.
+Linear Regression Line Fit.
+Scatter Plot of Customer Data.
